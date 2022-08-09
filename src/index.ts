@@ -1,0 +1,1 @@
+import {useMediaQuery} from "./react-document-query";

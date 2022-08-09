@@ -1,0 +1,29 @@
+{
+  "name": "@rpopov94/react-responsive",
+  "version": "1.0.0",
+  "description": "react-query-hook",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "microbundle --no-compress --globals react=React --strict",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpopov94/react-responsive.git"
+  },
+  "keywords": [
+    "MediaQueryList"
+  ],
+  "author": "rpopov94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpopov94/react-responsive/issues"
+  },
+  "homepage": "https://github.com/rpopov94/react-responsive#readme",
+  "devDependencies": {
+    "microbundle": "^0.15.0",
+    "typescript": "^4.7.4",
+    "react": "^18.2.0"
+  }
+}
