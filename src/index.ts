@@ -1,1 +1,1 @@
-import {useMediaQuery} from "./react-document-query";
+import {default as useMediaQuery} from "./react-document-query";
