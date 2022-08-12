@@ -76,3 +76,11 @@ maxHeight
 Дополнительно:
 
 - Типизировать minResolution, чтобы можно было указать либо строку вида "{число}dppx", либо просто number (то есть чтобы и так и так можно было, а строка только определённого вида)
+
+### ПЕСОЧНИЦА
+
+https://codesandbox.io/s/react-media-query-mq416x
+
+### NPM
+
+https://www.npmjs.com/package/@rpopov94/react-responsives
